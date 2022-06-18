@@ -43,7 +43,7 @@ public class BattleSystem : MonoBehaviour
             Debug.Log("Player One Wins!");
         }
         else
-        if ((playerOneChanceToWin)  < (playerTwoChanceToWin))
+        if ((playerOneChanceToWin) < (playerTwoChanceToWin))
         {
             Debug.Log("Player Two Wins!");
         }
